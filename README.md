@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![](https://raw.githubusercontent.com/dhkim6956/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/dhkim6956/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
 <!--
 **dhkim6956/dhkim6956** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
