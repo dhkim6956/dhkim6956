@@ -6,7 +6,8 @@
 
 ### Embedded
 
-<img src="https://img.shields.io/badge/cplusplus-00599C?logo=cplusplus&logoColor=white"><img src="https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white">  
+<img src="https://img.shields.io/badge/cplusplus-00599C?logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white">  
 <img src="https://img.shields.io/badge/raspberrypi-A22846?logo=raspberrypi&logoColor=white">
 <img src="https://img.shields.io/badge/stmicroelectronics-03234B?logo=stmicroelectronics&logoColor=white">
 <img src="https://img.shields.io/badge/espressif-E7352C?logo=espressif&logoColor=white">
