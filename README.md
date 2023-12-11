@@ -20,6 +20,7 @@
 |||
 |:---:|:---|
 |Language|<img src="https://img.shields.io/badge/kotlin-7F52FF?logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/swift-F05138?logo=swift&logoColor=white">|
+|Framework / Libs|<img src="https://img.shields.io/badge/jetpack compose-4285F4?logo=jetpackcompose&logoColor=white"> <img src="https://img.shields.io/badge/wear os-4285F4?logo=wearos&logoColor=white">|
 |Projects|[mogeun](https://github.com/dhkim6956/mogeun) (Kotlin)</br>[zootopia](https://github.com/dhkim6956/zootopia) (Kotlin Multiplatform)</br>[valuable challenges](https://github.com/dhkim6956/valuable_challenges) (Swift)|
 
 ### Web
